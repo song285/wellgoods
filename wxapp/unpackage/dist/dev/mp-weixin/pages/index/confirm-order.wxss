@@ -1,0 +1,274 @@
+
+.main.data-v-89d912ca {
+	padding-bottom: 108rpx;
+}
+.top.data-v-89d912ca {
+	background: #EB1C24;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 24rpx 40rpx 120rpx;
+}
+.top-left.data-v-89d912ca {
+	font-size: 24rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: rgba(255, 255, 255, .8);
+}
+.top-left .wait-for.data-v-89d912ca {
+	margin-bottom: 8rpx;
+	font-size: 32rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	color: #FFFFFF;
+}
+.top-right.data-v-89d912ca {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 32rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #FFFFFF;
+}
+.top-right view.data-v-89d912ca {
+	width: 70rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	text-align: center;
+	background: #EB1C24;
+	border-radius: 8rpx;
+	border: 2rpx solid #D7040C;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	margin: 0 13rpx;
+}
+.top-right view.data-v-89d912ca:last-child {
+	margin-right: 0rpx;
+}
+.commodity.data-v-89d912ca {
+	margin: -80rpx 24rpx 16rpx;
+	background: #FFFFFF;
+	border-radius: 16px;
+	padding: 0 24rpx 24rpx;
+}
+.commodity .title.data-v-89d912ca {
+	line-height: 80rpx;
+	font-size: 26rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #333333;
+	margin-bottom: 24rpx;
+}
+.content.data-v-89d912ca {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 180rpx;
+}
+.commodity-img.data-v-89d912ca {
+	width: 180rpx;
+	height: 180rpx;
+	-webkit-flex-shrink: 0;
+	        flex-shrink: 0;
+	display: block;
+	margin-right: 16rpx;
+}
+.content-left.data-v-89d912ca {
+	width: 458rpx;
+	height: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.describe.data-v-89d912ca {
+	font-size: 26rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	color: #333333;
+}
+.number.data-v-89d912ca {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 26rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #999999;
+}
+.price.data-v-89d912ca {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 22rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #999999;
+}
+.present-price.data-v-89d912ca {
+	font-size: 20rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	color: #EB1C24;
+	margin-right: 16rpx;
+}
+.present-price view.data-v-89d912ca:last-child {
+	.text-decoration: line-through;
+}
+.present-price text.data-v-89d912ca {
+	font-size: 32rpx;
+}
+.method.data-v-89d912ca {
+	background: #FFFFFF;
+	border-radius: 16rpx;
+	margin: 16rpx 24rpx;
+	padding: 0 24rpx;
+}
+.item.data-v-89d912ca {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 88rpx;
+	font-size: 26rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #333333;
+}
+.item-title.data-v-89d912ca {
+	width: 180rpx;
+	font-size: 26rpx;
+	-webkit-flex-shrink: 0;
+	        flex-shrink: 0;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #999999;
+}
+.item input.data-v-89d912ca {
+	border: none;
+	width: 100%;
+	font-size: 26rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #C1C1C1;
+}
+
+/* 底部 */
+.footer.data-v-89d912ca {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	line-height: 98rpx;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.footer view.data-v-89d912ca {
+	width: 50%;
+	text-align: center;
+	font-size: 32rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+}
+.footer .footer-left.data-v-89d912ca {
+	background: #FFFFFF;
+	color: #EB1C24;
+}
+.footer .footer-right.data-v-89d912ca {
+	background: #EB1C24;
+	color: #FFFFFF;
+}
+
+/* 弹窗 */
+.exchange.data-v-89d912ca {
+	position: fixed;
+	background: rgba(0, 0, 0, .6);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 10;
+}
+.exchange-content.data-v-89d912ca {
+	background: #fff;
+	border-radius: 16rpx;
+	width: 560rpx;
+	text-align: center;
+	padding-top: 50rpx;
+}
+.exchange-tips.data-v-89d912ca {
+	font-size: 36rpx;
+	color: #333333;
+	text-align: center;
+}
+.exchange-use.data-v-89d912ca {
+	font-size: 30rpx;
+	padding: 0 32rpx;
+	color: #666666;
+	margin: 18rpx 0 30rpx;
+}
+.exchange-use text.data-v-89d912ca {
+	color: #EB1C24;
+}
+.exchange-footer.data-v-89d912ca {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.exchange-footer view.data-v-89d912ca {
+	width: 50%;
+	line-height: 100rpx;
+	font-size: 36rpx;
+	border-top: 1rpx solid #e5e5e5;
+}
+.exchange-footer .cancel.data-v-89d912ca {
+	border-right: 1rpx solid #e5e5e5;
+	color: #999999;
+}
+.exchange-footer .determine.data-v-89d912ca {
+	color: #EB1C24;
+}
+

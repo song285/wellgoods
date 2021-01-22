@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/search",
+    "pages/collection/collection",
+    "pages/index/details",
+    "pages/index/confirm-order",
+    "pages/index/exchange",
+    "pages/index/orderSuccess",
+    "pages/user/index",
+    "pages/user/myOrder",
+    "pages/user/bill",
+    "pages/user/balance",
+    "pages/user/singleCardFree",
+    "pages/user/receiveCard",
+    "pages/user/invitationDetail",
+    "pages/user/InvitationPoster",
+    "pages/index/shareProducts",
+    "pages/user/detailed",
+    "pages/user/userInfo",
+    "pages/index/howSearch",
+    "pages/index/webView",
+    "pages/index/zeroArea",
+    "pages/index/nineArea",
+    "pages/user/evaluate",
+    "pages/user/submitEva",
+    "pages/login/regist"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "零点好物",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F5F5F5"
+  },
+  "usingComponents": {
+    "footer": "/pages/components/footer",
+    "binding": "/pages/components/binding"
+  },
+  "sitemapLocation": "sitemap.json"
+}

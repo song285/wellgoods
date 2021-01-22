@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "兑换流程",
+  "usingComponents": {
+    "popup-layer": "/components/popup-layer/popup-layer"
+  }
+}

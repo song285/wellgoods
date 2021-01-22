@@ -1,0 +1,152 @@
+
+.exchange.data-v-9b284a76 {
+	position: fixed;
+	background: rgba(0, 0, 0, .6);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.exchange-content.data-v-9b284a76 {
+	background: #fff;
+	border-radius: 16rpx;
+	width: 560rpx;
+	text-align: center;
+	padding-top: 50rpx;
+}
+.exchange-tips.data-v-9b284a76 {
+	font-size: 36rpx;
+	color: #333333;
+	text-align: center;
+}
+.exchange-use.data-v-9b284a76 {
+	font-size: 30rpx;
+	color: #666666;
+	margin: 18rpx 24rpx 30rpx;
+}
+.exchange-use text.data-v-9b284a76 {
+	color: #EB1C24;
+}
+.exchange-footer.data-v-9b284a76 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.exchange-footer view.data-v-9b284a76 {
+	width: 50%;
+	line-height: 100rpx;
+	font-size: 36rpx;
+	border-top: 1rpx solid #e5e5e5;
+}
+.exchange-footer .cancel.data-v-9b284a76 {
+	border-right: 1rpx solid #e5e5e5;
+	color: #999999;
+}
+.exchange-footer .determine.data-v-9b284a76 {
+	color: #EB1C24;
+	width: 50%;
+	line-height: 100rpx;
+	font-size: 36rpx;
+	border-top: 1rpx solid #e5e5e5;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+	background: #fff;
+}
+
+/* b绑定弹窗 */
+.binding.data-v-9b284a76 {
+	position: fixed;
+	background: rgba(0, 0, 0, .6);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.binding-popup.data-v-9b284a76 {
+	padding: 80rpx 40rpx 40rpx;
+	background: #FFFFFF;
+	border-radius: 16px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	font-size: 32rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #333333;
+	line-height: 45rpx;
+}
+.binding-img.data-v-9b284a76 {
+	width: 350rpx;
+	height: 208rpx;
+	display: block;
+	margin-bottom: 60rpx;
+}
+.binding-btn.data-v-9b284a76 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin-top: 65rpx;
+}
+.binding-btn view.data-v-9b284a76 {
+	line-height: 70rpx;
+	width: 228rpx;
+	border-radius: 35rpx;
+	text-align: center;
+	font-size: 32rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #FFFFFF;
+	background: #EC1F27;
+}
+.binding-btn button.data-v-9b284a76 {
+	line-height: 70rpx;
+	width: 228rpx;
+	border-radius: 35rpx;
+	text-align: center;
+	font-size: 32rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #FFFFFF;
+	background: #EC1F27;
+}
+.binding-btn .cancel-binding.data-v-9b284a76 {
+	background: #F7F7F7;
+	margin-right: 24rpx;
+	color: #666666;
+}
+

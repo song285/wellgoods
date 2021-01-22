@@ -1,0 +1,188 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "搜索好货",
+				"navigationBarBackgroundColor": "#EB1C24",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/index/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "pages/collection/collection",
+			"style": {
+				"navigationBarTitleText": "收藏"
+			}
+		}, {
+			"path": "pages/index/details",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/index/confirm-order",
+			"style": {
+				"navigationBarTitleText": "确认订单",
+				"navigationBarBackgroundColor": "#EB1C24",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/index/exchange",
+			"style": {
+				"navigationBarTitleText": "兑换流程"
+			}
+		}, {
+			"path": "pages/index/orderSuccess",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		{
+			"path": "pages/user/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#EB1C24",
+				"backgroundColor": "#EB1C24",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/user/myOrder",
+			"style": {
+				"navigationBarTitleText": "我的订单",
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/user/bill",
+			"style": {
+				"navigationBarTitleText": "账单"
+			}
+
+		}, {
+			"path": "pages/user/balance",
+			"style": {
+				"navigationBarTitleText": "余额提现",
+				"navigationBarBackgroundColor": "#EB1C24",
+				"navigationBarTextStyle": "white"
+			}
+
+		}, {
+			"path": "pages/user/singleCardFree",
+			"style": {
+				"navigationBarTitleText": "免单卡"
+			}
+
+		}, {
+			"path": "pages/user/receiveCard",
+			"style": {
+				"navigationBarTitleText": "分享领免单卡",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#1B1A20"
+			}
+
+		}, {
+			"path": "pages/user/invitationDetail",
+			"style": {
+				"navigationBarTitleText": "我的邀请"
+			}
+
+		}, {
+			"path": "pages/user/InvitationPoster",
+			"style": {
+				"navigationBarTitleText": "邀请海报"
+			}
+
+		}, {
+			"path": "pages/index/shareProducts",
+			"style": {
+				"navigationStyle": "custom"
+			}
+
+		}, {
+			"path": "pages/user/detailed",
+			"style": {
+				"navigationBarTitleText": "免单卡",
+				"backgroundColor": "#fff"
+			}
+
+		}, {
+			"path": "pages/user/userInfo",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+
+		}, {
+			"path": "pages/index/howSearch",
+			"style": {
+				"navigationBarTitleText": "",
+				"backgroundColor": "#F03940",
+				"navigationStyle": "custom"
+			}
+		}
+
+	    ,{
+            "path" : "pages/index/webView",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+		    "path" : "pages/index/zeroArea",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "0元专区",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+        {
+            "path" : "pages/index/nineArea",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "9.9元专区",
+                "enablePullDownRefresh": false
+            }
+        },
+		{
+		    "path" : "pages/user/evaluate",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "邀请评价",
+		        "enablePullDownRefresh": false
+		    }
+		}
+        
+        ,{
+            "path" : "pages/user/submitEva",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "提交评价",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "零点好物",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#F5F5F5"
+	}
+}

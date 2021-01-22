@@ -1,0 +1,62 @@
+
+.main.data-v-2a9020cb{
+	padding-top: 24rpx;
+	background: #fff;
+}
+.top.data-v-2a9020cb{
+	width: 712rpx;
+	padding-left: 38rpx;
+	padding-top: 40rpx;
+	height: 131rpx;
+	background-image: url('http://47.111.232.251:8106/path?name=1605083127896.png');
+	background-position: 0 0;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	font-size: 26rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #FDD7B5;
+	line-height: 37rpx;
+}
+.top .a-few.data-v-2a9020cb{
+	font-size: 36rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	color: #FDD7B5;
+	line-height: 50rpx;
+}
+.item.data-v-2a9020cb{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 123rpx;
+	border-bottom: 1rpx solid #E8E8E8;
+	margin: 0 24rpx;
+	font-size: 32rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	color: #333333;
+	line-height: 45rpx;
+}
+.item .left.data-v-2a9020cb{
+	font-size: 30rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #333333;
+	line-height: 42rpx;
+}
+.item .left .time.data-v-2a9020cb{
+	
+	font-size: 24rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #999999;
+	line-height: 33rpx;
+}
+

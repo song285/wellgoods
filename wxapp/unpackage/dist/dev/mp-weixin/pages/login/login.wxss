@@ -1,0 +1,88 @@
+
+.main.data-v-b237504c {
+	min-height: 100vh;
+	background: #fff;
+}
+.weixin.data-v-b237504c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	padding-top: 120rpx;
+}
+.weixin image.data-v-b237504c {
+	width: 150rpx;
+	height: 150rpx;
+	background: #EB1C24;
+	border-radius: 20rpx;
+}
+.souquan.data-v-b237504c {
+	font-size: 28rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #333333;
+	line-height: 40rpx;
+	margin: 16rpx 0 60rpx;
+}
+.huoqu.data-v-b237504c {
+	font-size: 24rpx;
+	font-family: PingFangSC-Regular, PingFang SC;
+	font-weight: 400;
+	color: #999999;
+	line-height: 33rpx;
+	margin-bottom: 120rpx;
+}
+.allow.data-v-b237504c {
+	width: 480rpx;
+	height: 88rpx;
+	background: #EB1C24;
+	border-radius: 49rpx;
+	font-size: 32rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	color: #FFFFFF;
+	line-height: 88rpx;
+	text-align: center;
+}
+.refuse.data-v-b237504c {
+	font-size: 32rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	color: #999999;
+	line-height: 45rpx;
+	margin-top: 40rpx;
+}
+.phone.data-v-b237504c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	padding-top: 200rpx;
+}
+.title.data-v-b237504c {
+	font-size: 42rpx;
+	font-family: PingFangSC-Medium, PingFang SC;
+	font-weight: 500;
+	color: #333333;
+	line-height: 59rpx;
+	margin-bottom: 280rpx;
+}
+
